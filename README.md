@@ -1,0 +1,1 @@
+# sentinel-azurerm-vm-size
